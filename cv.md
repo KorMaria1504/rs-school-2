@@ -3,6 +3,8 @@
 
 **Contacts:** kormaria2002@gmail.com 
 
+**Zodiac sign:** Aries
+
 ## About Me
 Self development has always been my main priority, that is why I have a great will to study. 
 After finishing C# course at university, I decided to continue studying software development. 
